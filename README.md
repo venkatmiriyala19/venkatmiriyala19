@@ -24,7 +24,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkatmiriyala19&theme=dark&hide_border=false" alt="GitHub Streak Stats">
 </div>
 
-<div style="display: flex; justify-content: center; margin-top: 10px;">
+<div style="display: flex; justify-content: center; margin-top: 10px;align-items:center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatmiriyala19&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
 
