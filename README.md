@@ -24,8 +24,8 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkatmiriyala19&theme=dark&hide_border=false" alt="GitHub Streak Stats">
 </div>
 
-<div style="display: flex; justify-content: center; margin-top: 10px;margin-left:50%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatmiriyala19&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+<div style="display: flex; justify-content: center; margin-top: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/? username=venkatmiriyala19&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="margin-left:50%;" alt="Top Languages">
 </div>
 
 ## 🏆 GitHub Trophies
