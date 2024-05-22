@@ -25,7 +25,7 @@
 </div>
 
 <div style="display: flex; justify-content: center; margin-top: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/? username=venkatmiriyala19&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="margin-left:50%;" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/? username=venkatmiriyala19&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"  alt="Top Languages">
 </div>
 
 ## 🏆 GitHub Trophies
